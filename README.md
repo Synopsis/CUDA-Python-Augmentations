@@ -8,6 +8,7 @@ Test Implementations of Cinematic oriented GPU / CUDA Image Processing Augmentat
 conda create -n pycuda-aug python=3.7
 conda activate pycuda-aug
 conda install pip
+conda install -c nvidia cuda-python
 
 #pillow simd requirements
 apt-get install -y \
@@ -20,8 +21,6 @@ pip3 install pillow-simd
 pip3 install imageio
 pip3 install jupyter
 pip3 install numpy
-pip3 install pycuda
-pip3 install pillow
 
 ```
 
