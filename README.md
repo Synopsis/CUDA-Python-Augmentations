@@ -5,8 +5,8 @@ Test Implementations of Cinematic oriented GPU / CUDA Image Processing Augmentat
 # setup
 
 ```
-conda create -n pycuda-aug python=3.7
-conda activate pycuda-aug
+conda create -n cuda-python-aug python=3.7
+conda activate cuda-python-aug
 conda install pip
 conda install -c nvidia cuda-python
 
@@ -27,7 +27,7 @@ pip3 install numpy
 # Usage
 
 ```
-conda activate pycuda-aug
+conda activate cuda-python-aug
 jupyter notebook --no-browser --port=8888 --ip=0.0.0.0
 ```
 
