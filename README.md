@@ -1,5 +1,5 @@
 # PyCuda-Augmentations
-Test Implementations of Cinematic oriented GPU / CUDA Image Processing Augmentations for training. 
+Test Implementations of GPU / CUDA Image Processing Augmentations for training. 
 
 
 # setup
